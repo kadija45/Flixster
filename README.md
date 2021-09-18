@@ -42,9 +42,9 @@ I had an issue where the view controller for the collection view could not find 
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://user-images.githubusercontent.com/87451905/133342748-5b019540-69d0-4b7b-9285-f45d50377f8c.gif" width=250><br>
 
-![5mzmcc](https://user-images.githubusercontent.com/87451905/133342748-5b019540-69d0-4b7b-9285-f45d50377f8c.gif) 
+
 
 
 
