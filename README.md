@@ -18,9 +18,9 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ### App Walkthrough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://im7.ezgif.com/tmp/ezgif-7-dddf99394b3e.gif" width=250><br>
 
-https://im7.ezgif.com/tmp/ezgif-7-dddf99394b3e.gif
+
 
 ### Notes
 I had an issue where the view controller for the collection view could not find the cell that the collection view was supposed to go in but after I cleaned my code and restarted it, it was able to find it again so I'm not sure it was really an issue or if it was just a bug.
