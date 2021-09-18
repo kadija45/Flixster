@@ -21,7 +21,6 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 <img src="https://im7.ezgif.com/tmp/ezgif-7-dddf99394b3e.gif" width=250><br>
 
 
-
 ### Notes
 I had an issue where the view controller for the collection view could not find the cell that the collection view was supposed to go in but after I cleaned my code and restarted it, it was able to find it again so I'm not sure it was really an issue or if it was just a bug.
 
@@ -44,11 +43,6 @@ I had an issue where the view controller for the collection view could not find 
 
 <img src="https://user-images.githubusercontent.com/87451905/133342748-5b019540-69d0-4b7b-9285-f45d50377f8c.gif" width=250><br>
 
-
-
-
-
-
 ### Notes
-Describe any challenges encountered while building the app.
+
 I had an issue where the screen would show up for a few seconds and then immediately just turn white. I managed to get it working again by resetting my MovieCell and reconfiguring the outlets
